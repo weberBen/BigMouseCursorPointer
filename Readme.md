@@ -1,6 +1,6 @@
 # Big mouse cursor pointer for partially sighted person (Windows Only)
 
-Because version of Windows (lower than the 10th version) does not allow user to increase the size of the mouse pointer behind few pixel, it can be hard for partially sighted person to see the mouse pointer.
+Because version of Windows (lower than the 10th version that already supports that option natively; note that the app also works with Windows 10) does not allow user to increase the size of the mouse pointer behind few pixel, it can be hard for partially sighted person to see the mouse pointer.
 It can be seen as a far simpler version of *ZoomText* which is a costly solution for people who might only want to use the mouse pointer option.
 
 See the [demo video](/Assets/demo.mkv)
