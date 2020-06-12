@@ -26,4 +26,4 @@ The app allows user to change and rescale the image while running
 
 <img src="/Assets/scale_0.5.png" alt="Mouse pointer at scale 0.5" width="450"/>
 
-[Demo](/Assets/demo.gif)
+[Demo video](/Assets/demo.gif)
