@@ -6,4 +6,4 @@ Because version of Windows (lower than the 10th version) does not allow user to 
 
 The scritp set an hook over the mouse move to retrieve the its position on the screen and then the app moves a transparent window with a custom image (as png/jpg/bmp) with alpha channel supported over that position.
 
-<img src="/assets/how_it_works.png" alt="How it works" width="450"/>
+<img src="/Assets/how_it_works.png" alt="How it works" width="450"/>
