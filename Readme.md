@@ -19,7 +19,7 @@ Since the app uses a window over the windows mouse pointer some system windows w
 
 ## In use
 
-The app allow user to change and rescale the image while running
+The app allows user to change and rescale the image while running
 
 
 <img src="/Assets/scale_0.2.png" alt="Mouse pointer at scale 0.2" width="450"/>
